@@ -1,2 +1,3 @@
-# artifacts
-Collections de documents utiles pour la génération
+# Collection d'artefacts
+
+Collections de documents utiles pour la génération de code. 
